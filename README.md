@@ -16,7 +16,7 @@ Daily-updated dataset of available and resale .degree one-word domains from Uniq
 
 **Public extract:** 9,801 rows · **Live catalog:** 9,801 domains
 
-**Last updated:** 2026-04-12  
+**Last updated:** 2026-04-13  
 **Canonical page:** `https://unique.domains/domains/tld/degree`  
 **Best for:** founders, investors, studios
 
@@ -64,7 +64,7 @@ print(df.head())
 
 | domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                  |
 | ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | -------------------------- |
-| alpha.degree     | available | $14.99    | $64.99        | 90             | 54     | 5      | name.com                   |
+| alpha.degree     | available | $14.99    | $64.99        | 90             | 53     | 5      | name.com                   |
 | pay.degree       | resell    | —         | —             | 84             | 60     | 3      | Dynadot Inc                |
 | easy.degree      | premium   | $250      | $250          | 128            | 68     | 4      | name.com                   |
 | air.degree       | available | $66.98    | —             | 84             | 49     | 3      | namecheap                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .DEGREE One-Word Domains*. Version 2026-04-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .DEGREE One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
