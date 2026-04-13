@@ -69,10 +69,10 @@ print(df.head())
 | easy.degree      | premium   | $250      | $250          | 128            | 68     | 4      | name.com                   |
 | air.degree       | available | $66.98    | —             | 84             | 49     | 3      | namecheap                  |
 | shop.degree      | resell    | —         | —             | 78             | 54     | 4      | Sav.com, LLC - 49          |
-| free.degree      | premium   | $1,250    | $1,250        | 88             | 59     | 4      | name.com                   |
+| cloud.degree     | premium   | $1,300    | $1,300        | 70             | 59     | 5      | namecheap                  |
 | simple.degree    | available | $14.99    | $64.99        | 128            | 48     | 6      | name.com                   |
 | gold.degree      | resell    | —         | —             | 72             | 48     | 4      | GoDaddy.com, LLC           |
-| cloud.degree     | premium   | $1,300    | $1,300        | 70             | 59     | 5      | namecheap                  |
+| free.degree      | premium   | $1,250    | $1,250        | 88             | 57     | 4      | name.com                   |
 | travel.degree    | available | $66.98    | —             | 115            | 48     | 6      | namecheap                  |
 | that.degree      | resell    | —         | —             | 94             | 36     | 4      | GoDaddy.com, LLC           |
 | live.degree      | premium   | $250      | $250          | 108            | 56     | 4      | name.com                   |
