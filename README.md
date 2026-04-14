@@ -16,7 +16,7 @@ Daily-updated dataset of available and resale .degree one-word domains from Uniq
 
 **Public extract:** 9,801 rows · **Live catalog:** 9,801 domains
 
-**Last updated:** 2026-04-13  
+**Last updated:** 2026-04-14  
 **Canonical page:** `https://unique.domains/domains/tld/degree`  
 **Best for:** founders, investors, studios
 
@@ -67,10 +67,10 @@ print(df.head())
 | alpha.degree     | available | $14.99    | $64.99        | 90             | 53     | 5      | name.com                   |
 | pay.degree       | resell    | —         | —             | 84             | 60     | 3      | Dynadot Inc                |
 | easy.degree      | premium   | $250      | $250          | 128            | 68     | 4      | name.com                   |
-| air.degree       | available | $66.98    | —             | 84             | 49     | 3      | namecheap                  |
+| simple.degree    | available | $14.99    | $64.99        | 128            | 49     | 6      | name.com                   |
 | shop.degree      | resell    | —         | —             | 78             | 54     | 4      | Sav.com, LLC - 49          |
 | cloud.degree     | premium   | $1,300    | $1,300        | 70             | 59     | 5      | namecheap                  |
-| simple.degree    | available | $14.99    | $64.99        | 128            | 48     | 6      | name.com                   |
+| air.degree       | available | $66.98    | —             | 84             | 49     | 3      | namecheap                  |
 | gold.degree      | resell    | —         | —             | 72             | 48     | 4      | GoDaddy.com, LLC           |
 | free.degree      | premium   | $1,250    | $1,250        | 88             | 57     | 4      | name.com                   |
 | travel.degree    | available | $66.98    | —             | 115            | 48     | 6      | namecheap                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .DEGREE One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .DEGREE One-Word Domains*. Version 2026-04-14. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
