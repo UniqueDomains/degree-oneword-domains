@@ -1,22 +1,22 @@
-# Available .DEGREE One-Word Domains (9,801)
+# Available .DEGREE One-Word Domains (12,171)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
-  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-9%2C801%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-9%2C801%20domains-6f42c1">
+  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-12%2C171%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
 
-Daily-updated dataset of available and resale .degree one-word domains from Unique Domains.
+Daily-updated public extract of available and resale .degree one-word domains from Unique Domains.
 
-> **Note:** this repository currently mirrors the full live catalog for this exact search.
-> Unique Domains counts can still change as the search refreshes.
+> **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
+> The full live catalog for this exact search currently contains **12,171 domains** on the canonical page below.
 
-**Public extract:** 9,801 rows · **Live catalog:** 9,801 domains
+**Public extract:** 1,000 rows · **Live catalog:** 12,171 domains
 
-**Last updated:** 2026-04-14  
+**Last updated:** 2026-04-26  
 **Canonical page:** `https://unique.domains/domains/tld/degree`  
 **Best for:** founders, investors, studios
 
@@ -43,8 +43,8 @@ This repository is the public extract for Unique Domains' .DEGREE one-word domai
 
 ### Files
 
-- `degree.csv` — public CSV extract (9,801 rows)
-- `degree.json` — public JSON extract (9,801 rows)
+- `degree.csv` — public CSV extract (1,000 rows)
+- `degree.json` — public JSON extract (1,000 rows)
 - `DATA_DICTIONARY.md` — field definitions for the exported files
 - `METHODOLOGY.md` — scope, refresh policy, and caveats
 - `CHANGELOG.md` — latest snapshot metadata
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                  |
-| ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | -------------------------- |
-| alpha.degree     | available | $14.99    | $64.99        | 90             | 53     | 5      | name.com                   |
-| pay.degree       | resell    | —         | —             | 84             | 60     | 3      | Dynadot Inc                |
-| easy.degree      | premium   | $250      | $250          | 128            | 68     | 4      | name.com                   |
-| simple.degree    | available | $14.99    | $64.99        | 128            | 49     | 6      | name.com                   |
-| shop.degree      | resell    | —         | —             | 78             | 54     | 4      | Sav.com, LLC - 49          |
-| cloud.degree     | premium   | $1,300    | $1,300        | 70             | 59     | 5      | namecheap                  |
-| air.degree       | available | $66.98    | —             | 84             | 49     | 3      | namecheap                  |
-| gold.degree      | resell    | —         | —             | 72             | 48     | 4      | GoDaddy.com, LLC           |
-| free.degree      | premium   | $1,250    | $1,250        | 88             | 57     | 4      | name.com                   |
-| travel.degree    | available | $66.98    | —             | 115            | 48     | 6      | namecheap                  |
-| that.degree      | resell    | —         | —             | 94             | 36     | 4      | GoDaddy.com, LLC           |
-| live.degree      | premium   | $250      | $250          | 108            | 56     | 4      | name.com                   |
-| all.degree       | available | $14.99    | $64.99        | 88             | 48     | 3      | name.com                   |
-| wealth.degree    | resell    | —         | —             | 84             | 30     | 6      | Squarespace Domains II LLC |
-| data.degree      | premium   | $78       | $78           | 70             | 56     | 4      | namecheap                  |
-| big.degree       | available | $14.99    | $64.99        | 88             | 47     | 3      | name.com                   |
-| alternate.degree | resell    | —         | —             | 100            | 15     | 9      | Dynadot Inc                |
-| good.degree      | premium   | $75       | $75           | 82             | 55     | 4      | name.com                   |
-| only.degree      | available | $14.99    | $64.99        | 110            | 46     | 4      | name.com                   |
-| zero.degree      | premium   | $1,250    | $1,250        | 112            | 53     | 4      | name.com                   |
+| domain              | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
+| ------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
+| Tools.degree        | available | $66.98    | —             | 56             | 40     | 5      | namecheap |
+| schools.degree      | premium   | $250      | —             | 72             | 24     | 7      | name.com  |
+| matcha.degree       | available | $14.99    | —             | 86             | 39     | 6      | name.com  |
+| veterans.degree     | premium   | $250      | —             | 56             | 23     | 8      | name.com  |
+| stories.degree      | available | $14.99    | —             | 58             | 36     | 7      | name.com  |
+| computers.degree    | premium   | $75       | —             | 68             | 19     | 9      | name.com  |
+| tickets.degree      | available | $14.99    | —             | 64             | 34     | 7      | name.com  |
+| mathematics.degree  | premium   | $1,250    | —             | 68             | 19     | 11     | name.com  |
+| William.degree      | available | $66.98    | —             | 74             | 31     | 7      | namecheap |
+| ratings.degree      | premium   | $250      | —             | 53             | 19     | 7      | name.com  |
+| letsgo.degree       | available | $14.99    | —             | 57             | 31     | 7      | name.com  |
+| templates.degree    | premium   | $1,250    | —             | 54             | 17     | 9      | name.com  |
+| videos.degree       | available | $14.99    | —             | 52             | 30     | 6      | name.com  |
+| counselling.degree  | premium   | $75       | —             | 82             | 13     | 11     | name.com  |
+| popup.degree        | available | $14.99    | —             | 84             | 29     | 6      | name.com  |
+| studies.degree      | premium   | $250      | —             | 72             | 13     | 7      | name.com  |
+| Jim.degree          | available | $66.98    | —             | 78             | 28     | 3      | namecheap |
+| publichealth.degree | premium   | $250      | —             | 72             | 13     | 13     | name.com  |
+| commonground.degree | available | $14.99    | —             | 74             | 28     | 13     | name.com  |
+| paths.degree        | premium   | $75       | —             | 53             | 13     | 5      | name.com  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 9,801-row public sample | 9,801 live domains                               |
+| 1,000-row public sample | 12,171 live domains                              |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .DEGREE One-Word Domains*. Version 2026-04-14. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .DEGREE One-Word Domains*. Version 2026-04-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
