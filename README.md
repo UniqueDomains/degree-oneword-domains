@@ -1,10 +1,10 @@
-# Available .DEGREE One-Word Domains (12,171)
+# Available .DEGREE One-Word Domains (12,782)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-12%2C171%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-12%2C782%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .degree one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **12,171 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **12,782 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,171 domains
+**Public extract:** 1,000 rows · **Live catalog:** 12,782 domains
 
-**Last updated:** 2026-04-26  
+**Last updated:** 2026-05-01  
 **Canonical page:** `https://unique.domains/domains/tld/degree`  
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain              | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
-| ------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
-| Tools.degree        | available | $66.98    | —             | 56             | 40     | 5      | namecheap |
-| schools.degree      | premium   | $250      | —             | 72             | 24     | 7      | name.com  |
-| matcha.degree       | available | $14.99    | —             | 86             | 39     | 6      | name.com  |
-| veterans.degree     | premium   | $250      | —             | 56             | 23     | 8      | name.com  |
-| stories.degree      | available | $14.99    | —             | 58             | 36     | 7      | name.com  |
-| computers.degree    | premium   | $75       | —             | 68             | 19     | 9      | name.com  |
-| tickets.degree      | available | $14.99    | —             | 64             | 34     | 7      | name.com  |
-| mathematics.degree  | premium   | $1,250    | —             | 68             | 19     | 11     | name.com  |
-| William.degree      | available | $66.98    | —             | 74             | 31     | 7      | namecheap |
-| ratings.degree      | premium   | $250      | —             | 53             | 19     | 7      | name.com  |
-| letsgo.degree       | available | $14.99    | —             | 57             | 31     | 7      | name.com  |
-| templates.degree    | premium   | $1,250    | —             | 54             | 17     | 9      | name.com  |
-| videos.degree       | available | $14.99    | —             | 52             | 30     | 6      | name.com  |
-| counselling.degree  | premium   | $75       | —             | 82             | 13     | 11     | name.com  |
-| popup.degree        | available | $14.99    | —             | 84             | 29     | 6      | name.com  |
-| studies.degree      | premium   | $250      | —             | 72             | 13     | 7      | name.com  |
-| Jim.degree          | available | $66.98    | —             | 78             | 28     | 3      | namecheap |
-| publichealth.degree | premium   | $250      | —             | 72             | 13     | 13     | name.com  |
-| commonground.degree | available | $14.99    | —             | 74             | 28     | 13     | name.com  |
-| paths.degree        | premium   | $75       | —             | 53             | 13     | 5      | name.com  |
+| domain                    | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
+| ------------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
+| Tools.degree              | available | $66.98    | —             | 56             | 40     | 5      | namecheap |
+| schools.degree            | premium   | $250      | —             | 72             | 24     | 7      | name.com  |
+| matcha.degree             | available | $14.99    | —             | 86             | 39     | 6      | name.com  |
+| computers.degree          | premium   | $75       | —             | 68             | 19     | 9      | name.com  |
+| stories.degree            | available | $14.99    | —             | 58             | 36     | 7      | name.com  |
+| ratings.degree            | premium   | $250      | —             | 53             | 19     | 7      | name.com  |
+| tickets.degree            | available | $14.99    | —             | 64             | 34     | 7      | name.com  |
+| counselling.degree        | premium   | $75       | —             | 82             | 13     | 11     | name.com  |
+| letsgo.degree             | available | $14.99    | —             | 57             | 31     | 7      | name.com  |
+| studies.degree            | premium   | $250      | —             | 72             | 13     | 7      | name.com  |
+| popup.degree              | available | $14.99    | —             | 84             | 29     | 6      | name.com  |
+| publichealth.degree       | premium   | $250      | —             | 72             | 13     | 13     | name.com  |
+| Jim.degree                | available | $66.98    | —             | 78             | 28     | 3      | namecheap |
+| topfive.degree            | premium   | $71.40    | $71.40        | 52             | 9      | 8      | namesilo  |
+| commonground.degree       | available | $14.99    | —             | 74             | 28     | 13     | name.com  |
+| budgets.degree            | premium   | $75       | —             | 60             | 7      | 7      | name.com  |
+| gems.degree               | available | $14.99    | —             | 70             | 28     | 4      | name.com  |
+| fellowships.degree        | premium   | $242      | $242          | 52             | 4      | 11     | namesilo  |
+| backyard.degree           | available | $14.99    | —             | 80             | 27     | 9      | name.com  |
+| DistrictofColumbia.degree | premium   | $280      | $280          | 52             | 4      | 20     | namecheap |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 1,000-row public sample | 12,171 live domains                              |
+| 1,000-row public sample | 12,782 live domains                              |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .DEGREE One-Word Domains*. Version 2026-04-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .DEGREE One-Word Domains*. Version 2026-05-01. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
