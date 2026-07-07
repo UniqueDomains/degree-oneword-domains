@@ -14,10 +14,10 @@ Daily-updated public extract of available and resale .degree one-word domains fr
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **12,782 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,782 domains · **Median ask:** $29.39 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 12,782 domains · **Median ask:** $25.37 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-27  
-**Canonical page:** `https://unique.domains/domains/tld/degree`  
+**Last updated:** 2026-07-07
+**Canonical page:** `https://unique.domains/domains/tld/degree`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .DEGREE one-word domai
 
 ### Files
 
-- `degree.csv` — public CSV extract (1,000 rows)
-- `degree.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `degree.csv`, public CSV extract (1,000 rows)
+- `degree.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain                    | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
-| ------------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
-| Tools.degree              | available | $66.98    | —             | 56             | 40     | 5      | namecheap |
-| schools.degree            | premium   | $250      | —             | 72             | 24     | 7      | name.com  |
-| matcha.degree             | available | $14.99    | —             | 86             | 39     | 6      | name.com  |
-| computers.degree          | premium   | $75       | —             | 68             | 19     | 9      | name.com  |
-| stories.degree            | available | $14.99    | —             | 58             | 36     | 7      | name.com  |
-| ratings.degree            | premium   | $250      | —             | 53             | 19     | 7      | name.com  |
-| tickets.degree            | available | $14.99    | —             | 64             | 34     | 7      | name.com  |
-| counselling.degree        | premium   | $75       | —             | 82             | 13     | 11     | name.com  |
-| letsgo.degree             | available | $14.99    | —             | 57             | 31     | 7      | name.com  |
-| studies.degree            | premium   | $250      | —             | 72             | 13     | 7      | name.com  |
-| gods.degree               | available | $14.99    | —             | 72             | 29     | 4      | name.com  |
-| publichealth.degree       | premium   | $250      | —             | 72             | 13     | 13     | name.com  |
-| popup.degree              | available | $14.99    | —             | 84             | 28     | 6      | name.com  |
-| topfive.degree            | premium   | $71.40    | $71.40        | 52             | 9      | 8      | namesilo  |
-| Jim.degree                | available | $66.98    | —             | 78             | 28     | 3      | namecheap |
-| budgets.degree            | premium   | $75       | —             | 60             | 7      | 7      | name.com  |
-| commonground.degree       | available | $14.99    | —             | 74             | 28     | 13     | name.com  |
-| fellowships.degree        | premium   | $242      | $242          | 52             | 4      | 11     | namesilo  |
-| gems.degree               | available | $14.99    | —             | 70             | 28     | 4      | name.com  |
-| DistrictofColumbia.degree | premium   | $280      | $280          | 52             | 4      | 20     | namecheap |
+| domain        | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                  |
+| ------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | -------------------------- |
+| act.degree    | available | $14.99    | —             | high           | low    | 3      | name.com                   |
+| that.degree   | resell    | —         | —             | high           | low    | 4      | GoDaddy.com, LLC           |
+| aaa.degree    | premium   | $78       | $78           | high           | medium | 3      | namecheap                  |
+| add.degree    | available | $14.99    | —             | high           | low    | 3      | name.com                   |
+| wealth.degree | resell    | —         | —             | high           | low    | 6      | Squarespace Domains II LLC |
+| arts.degree   | premium   | $1,107    | $1,107        | high           | low    | 4      | namesilo                   |
+| are.degree    | available | $14.99    | —             | high           | low    | 3      | name.com                   |
+| comp.degree   | premium   | $250      | $250          | medium         | low    | 4      | name.com                   |
+| bar.degree    | available | $14.99    | —             | high           | low    | 3      | name.com                   |
+| Iam.degree    | premium   | $71.40    | $71.40        | high           | medium | 4      | namesilo                   |
+| con.degree    | available | $14.99    | —             | high           | low    | 3      | name.com                   |
+| mark.degree   | premium   | $75       | $75           | medium         | medium | 4      | name.com                   |
+| dew.degree    | available | $14.99    | —             | medium         | low    | 3      | name.com                   |
+| ohio.degree   | premium   | $242      | $242          | high           | low    | 4      | namesilo                   |
+| did.degree    | available | $14.99    | —             | high           | low    | 3      | name.com                   |
+| quiz.degree   | premium   | $71.40    | $71.40        | high           | low    | 4      | namesilo                   |
+| far.degree    | available | $14.99    | —             | high           | low    | 3      | name.com                   |
+| basic.degree  | premium   | $71.40    | $71.40        | medium         | low    | 5      | namesilo                   |
+| few.degree    | available | $14.99    | —             | high           | low    | 3      | name.com                   |
+| first.degree  | premium   | $250      | $250          | high           | medium | 5      | name.com                   |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This selection is entirely made up of one-word .degree domains. The strongest candidates are the names where the word and the extension read cleanly together and create an obvious meaning, such as education, credentials, outcomes, or measurable progress. Examples like inside.degree, shape.degree, and final.degree feel clearer than terms that are awkward, overly negative, or too literal. With a median ask of 29.39, the practical decision is less about headline price and more about memorability, relevance, and whether the phrase looks credible in real use. When comparing these domains, check readability, spelling ease, and whether the word raises trademark concerns in your target market.
+This set covers one-word .degree domain names built from everyday words, phrases, and compounds rather than random strings. With 12,782 domains and a median asking price near $25, the selection spans simple, literal terms like finals.degree and bedframe.degree alongside more playful compounds such as coffeeberry.degree and gowiththeflow.degree. Because .degree is a smaller, niche extension rather than a mainstream one, clarity, spelling ease, and thematic fit matter more than extension recognition alone. Comparing the asking price against renewal cost is the fastest way to separate a solid pick from an overpriced listing in this list.
 
-- All results use the .degree extension
-- This set contains 12,782 one-word domains
-- Median ask across the selection is 29.39
-- Prioritize clear word-plus-extension fit
+- 12,782 one-word .degree domains in this selection
+- Median asking price near $25 per domain
+- Mix of literal terms and playful compounds
+- Updated daily for current pricing and availability
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .DEGREE One-Word Domains*. Version 2026-05-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .DEGREE One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
