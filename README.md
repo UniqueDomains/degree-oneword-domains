@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .degree one-word domains fr
 
 **Public extract:** 1,000 rows · **Live catalog:** 26,368 domains · **Median ask:** $28.83 · **High-demand under $2,500:** 2
 
-**Last updated:** 2026-09-17
+**Last updated:** 2026-09-18
 **Canonical page:** `https://unique.domains/domains/tld/degree`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                  |
-| ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | -------------------------- |
-| something.degree | available | $14.99    | —             | high           | low    | 9      | name.com                   |
-| act.degree       | available | $14.99    | —             | high           | low    | 3      | name.com                   |
-| that.degree      | resell    | —         | —             | high           | low    | 4      | GoDaddy.com, LLC           |
-| aaa.degree       | premium   | $78       | $78           | high           | medium | 3      | namecheap                  |
-| add.degree       | available | $14.99    | —             | high           | low    | 3      | name.com                   |
-| wealth.degree    | resell    | —         | —             | high           | low    | 6      | Squarespace Domains II LLC |
-| arts.degree      | premium   | $1,107    | $1,107        | medium         | low    | 4      | namesilo                   |
-| are.degree       | available | $14.99    | —             | high           | low    | 3      | name.com                   |
-| comp.degree      | premium   | $250      | $250          | medium         | low    | 4      | name.com                   |
-| bar.degree       | available | $14.99    | —             | high           | low    | 3      | name.com                   |
-| Iam.degree       | premium   | $71.40    | $71.40        | high           | medium | 4      | namesilo                   |
-| con.degree       | available | $14.99    | —             | high           | low    | 3      | name.com                   |
-| mark.degree      | premium   | $75       | $75           | medium         | medium | 4      | name.com                   |
-| dew.degree       | available | $14.99    | —             | medium         | low    | 3      | name.com                   |
-| ohio.degree      | premium   | $242      | $242          | high           | low    | 4      | namesilo                   |
-| did.degree       | available | $14.99    | —             | high           | low    | 3      | name.com                   |
-| quiz.degree      | premium   | $71.40    | $71.40        | high           | low    | 4      | namesilo                   |
-| far.degree       | available | $14.99    | —             | high           | low    | 3      | name.com                   |
-| basic.degree     | premium   | $71.40    | $71.40        | medium         | low    | 5      | namesilo                   |
-| few.degree       | available | $14.99    | —             | high           | low    | 3      | name.com                   |
+| domain        | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                  |
+| ------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | -------------------------- |
+| act.degree    | available | $14.99    | —             | high           | low    | 3      | name.com                   |
+| that.degree   | resell    | —         | —             | high           | low    | 4      | GoDaddy.com, LLC           |
+| aaa.degree    | premium   | $78       | $78           | high           | medium | 3      | namecheap                  |
+| add.degree    | available | $14.99    | —             | high           | low    | 3      | name.com                   |
+| wealth.degree | resell    | —         | —             | high           | low    | 6      | Squarespace Domains II LLC |
+| arts.degree   | premium   | $1,107    | $1,107        | medium         | low    | 4      | namesilo                   |
+| are.degree    | available | $14.99    | —             | high           | low    | 3      | name.com                   |
+| comp.degree   | premium   | $250      | $250          | medium         | low    | 4      | name.com                   |
+| bar.degree    | available | $14.99    | —             | high           | low    | 3      | name.com                   |
+| Iam.degree    | premium   | $71.40    | $71.40        | high           | medium | 4      | namesilo                   |
+| con.degree    | available | $14.99    | —             | high           | low    | 3      | name.com                   |
+| mark.degree   | premium   | $75       | $75           | medium         | medium | 4      | name.com                   |
+| dew.degree    | available | $14.99    | —             | medium         | low    | 3      | name.com                   |
+| ohio.degree   | premium   | $242      | $242          | high           | low    | 4      | namesilo                   |
+| did.degree    | available | $14.99    | —             | high           | low    | 3      | name.com                   |
+| quiz.degree   | premium   | $71.40    | $71.40        | high           | low    | 4      | namesilo                   |
+| far.degree    | available | $14.99    | —             | high           | low    | 3      | name.com                   |
+| basic.degree  | premium   | $71.40    | $71.40        | medium         | low    | 5      | namesilo                   |
+| few.degree    | available | $14.99    | —             | high           | low    | 3      | name.com                   |
+| first.degree  | premium   | $250      | $250          | high           | medium | 5      | name.com                   |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .DEGREE One-Word Domains*. Version 2026-09-17. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .DEGREE One-Word Domains*. Version 2026-09-18. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
