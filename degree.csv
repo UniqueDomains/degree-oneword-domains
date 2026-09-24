@@ -1,6 +1,6 @@
 id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,registrar,created_at,expires_at,status_verified_at
 e8e35839-f7ad-4d64-94ad-2febc75c934c,flyingsaucer.degree,available,14.99,,high,low,13,name.com,,,
-f265b59e-14c9-40a7-a62f-9c58e9383808,office.degree,premium,242,242,medium,low,6,namesilo,,,19/09/2026 07:57
+f265b59e-14c9-40a7-a62f-9c58e9383808,office.degree,premium,242,242,medium,low,6,namesilo,,,23/09/2026 05:29
 321f65f5-c0b2-4959-9f91-91a33c2657c8,diminishing.degree,available,14.99,,high,low,11,name.com,,,
 dcb74264-22c3-414c-89b3-95f52795bcb0,sunglass.degree,available,14.99,,high,low,8,name.com,,,
 f10da218-0507-46a2-b718-d213ffda835e,remedial.degree,available,54.98,66.98,medium,low,8,namecheap,,,22/09/2026 02:24
@@ -30,10 +30,10 @@ ca484f51-29e7-494a-a4ec-f07d40ad9ee8,los.degree,available,14.99,,high,low,3,name
 225984e6-41e4-4c30-a3f1-795af1417be6,sevener.degree,available,14.99,64.99,low,low,7,name.com,,,
 7f9fd65e-725d-4372-a522-6507c0f96772,recognized.degree,available,52.99,52.99,medium,low,10,namesilo,,,21/09/2026 15:28
 863b77a6-2599-4cdd-8a89-9e83b0c3da8b,church.degree,available,14.99,,high,low,6,name.com,,,
-a229a892-b3d6-490d-85ca-ddafff80a4d4,digital.degree,premium,1107,1107,medium,low,7,namesilo,,,19/09/2026 05:15
+a229a892-b3d6-490d-85ca-ddafff80a4d4,digital.degree,premium,1300,1300,medium,low,7,namecheap,,,23/09/2026 05:43
 15cc28a6-1458-43b1-8ae2-e013302383b4,bringhome.degree,available,14.99,,high,low,10,name.com,,,
 f6cb9e3d-be2a-4f14-8578-52a732baa11b,equipped.degree,available,14.99,,medium,low,8,name.com,,,
-e946f9b2-96fb-427c-9977-9d473b025f85,quiz.degree,premium,71.4,71.4,high,low,4,namesilo,,,
+e946f9b2-96fb-427c-9977-9d473b025f85,quiz.degree,premium,71.4,71.4,medium,low,4,namesilo,,,23/09/2026 06:25
 646bb932-344b-4524-b5f2-b7899a861571,agnate.degree,available,14.99,64.99,low,low,6,name.com,,,
 3a3f30fa-ae54-4736-bdca-442c174dbf7d,berlin.degree,available,14.99,,high,low,6,name.com,,,
 183ada91-9a3e-4e3b-a858-25007eff628f,bawdy.degree,available,14.99,64.99,low,low,5,name.com,,,09/08/2026 02:05
@@ -55,7 +55,7 @@ c1faaff6-6a3b-47ee-a5ab-3821ed6e9015,springsnow.degree,available,14.99,,low,low,
 e0af194b-aa16-44d0-908b-2d555833fe2a,ripe.degree,available,14.99,,medium,low,4,name.com,,,
 b87d041b-2dd4-4839-98e1-430f76d5f022,oilpainting.degree,available,14.99,,medium,low,12,name.com,,,
 d8c95d3f-c151-48d4-9f9b-0c549482437a,existing.degree,available,14.99,,medium,low,8,name.com,,,
-cd2a50ee-8c0a-4461-9eb0-eb54afc0b7d2,thermal.degree,available,14.99,,medium,low,7,name.com,,,
+cd2a50ee-8c0a-4461-9eb0-eb54afc0b7d2,thermal.degree,available,52.99,52.99,low,low,7,namesilo,,,23/09/2026 12:37
 778ba0aa-6018-41f4-92bf-113d56dc61d8,greet.degree,available,14.99,,high,low,5,name.com,,,
 fab54fdb-19e6-4ac0-83b2-350728d6809f,peeking.degree,available,14.99,,high,low,7,name.com,,,
 c11d842b-6f0b-4a08-93fd-827c2d49d461,interior.degree,available,14.99,,medium,low,8,name.com,,,
@@ -92,7 +92,7 @@ c1e2318a-0eae-4bf6-9a61-038f66c06695,waytoo.degree,available,14.99,,low,low,7,na
 60f20e00-c0bc-4630-b1c9-fe42f494fe94,comeby.degree,available,14.99,,high,low,7,name.com,,,
 6270059f-153c-4069-9620-dd6fc53042d2,strongly.degree,available,14.99,,medium,low,8,name.com,,,
 03bf8f61-3fa1-4467-9394-6f17b205018f,walkietalkie.degree,available,14.99,,high,low,13,name.com,,,
-fa83e5f6-68dc-400c-8b21-72bf21b65a90,bullish.degree,available,14.99,,high,low,7,name.com,,,
+fa83e5f6-68dc-400c-8b21-72bf21b65a90,bullish.degree,available,52.99,52.99,medium,low,7,namesilo,,,23/09/2026 10:43
 d4bd2e7d-12db-4b9d-b003-1f3c59402743,nonsexual.degree,available,14.99,64.99,low,low,9,name.com,,,07/08/2026 01:38
 2f5a7a27-4024-4d14-b57b-bf6344cb018c,humble.degree,available,52.99,52.99,low,low,6,namesilo,,,22/09/2026 17:44
 23cb0fba-767b-40a9-9060-529a45d37a8a,peaking.degree,available,14.99,,high,low,7,name.com,,,
@@ -151,7 +151,7 @@ c0d949e6-1fd3-4826-b9f2-ae4626206cf1,maker.degree,available,52.99,52.99,low,low,
 4cda2cc3-dff4-493e-b144-d4bc75fafb84,underpowered.degree,available,14.99,,medium,low,12,name.com,,,
 94eafac8-6926-4092-812e-de19eb2cd68e,backstair.degree,available,14.99,64.99,low,low,9,name.com,,,08/08/2026 06:21
 1c051a6d-74e8-4d82-805a-80c15aecc12b,blow.degree,available,14.99,64.99,low,low,4,name.com,,,23/09/2026 01:59
-4f6117a9-f01c-430b-b863-7adea1667bbc,cinema.degree,available,52.99,52.99,medium,low,6,namesilo,,,19/09/2026 09:58
+4f6117a9-f01c-430b-b863-7adea1667bbc,cinema.degree,available,54.98,66.98,medium,low,6,namecheap,,,23/09/2026 07:48
 875ef963-55f3-436c-a385-9f31510a7acf,acceptable.degree,available,52.99,52.99,medium,low,10,namesilo,,,21/09/2026 15:23
 2c7aa486-bf6e-4382-8f70-c5d1a591b25e,dreamup.degree,available,14.99,,high,low,8,name.com,,,
 b4b80b0c-7402-46a7-8d30-6541d943493a,vexation.degree,available,,,medium,low,8,,,,
@@ -197,7 +197,7 @@ d6d50968-68b3-4ac4-b93e-f4955da67b0a,acned.degree,available,14.99,64.99,low,low,
 5f5d081d-5de4-4a4c-8180-05f504039919,bagel.degree,available,14.99,,high,low,5,name.com,,,
 0fccd70c-3481-4cd3-b4dc-7245d9e7335b,anabiotic.degree,available,14.99,64.99,low,low,9,name.com,,,
 37504cfa-08a6-46ff-8ce9-07ef12db91b6,airfilled.degree,available,14.99,64.99,low,low,10,name.com,,,
-9d82d337-8d29-4b68-b552-2eafa7f9755a,asset.degree,available,52.99,52.99,low,low,5,namesilo,,,19/09/2026 04:01
+9d82d337-8d29-4b68-b552-2eafa7f9755a,asset.degree,available,52.99,52.99,low,low,5,namesilo,,,23/09/2026 06:32
 270838c1-0c16-4351-8220-a2d1eb079fcc,disturb.degree,available,14.99,,high,low,7,name.com,,,
 fdbf6bac-5469-44a1-8e3c-bca83654ca32,disagree.degree,available,14.99,,medium,low,8,name.com,,,
 b2bd5e6e-c176-4cd0-aedd-20e19b962889,pies.degree,available,14.99,,medium,low,4,name.com,,,
@@ -207,7 +207,7 @@ e7785e3d-f7e1-4401-9600-754bd1cef3ea,violation.degree,available,14.99,,medium,lo
 a29d2ddf-13f6-4633-ac52-b309bd6501e6,suckit.degree,available,14.99,,medium,low,7,name.com,,,
 6b82cbf4-183e-4989-9573-b197a4d0c0f9,arctic.degree,available,14.99,64.99,low,low,6,name.com,,,06/08/2026 16:07
 1b9c4d01-0199-44b9-98e0-665a7f8e482d,arbitral.degree,available,14.99,64.99,low,low,8,name.com,,,06/08/2026 12:48
-d65f8cdf-2c4f-4969-bb45-94338ed4d6b0,shed.degree,available,14.99,,medium,low,4,name.com,,,
+d65f8cdf-2c4f-4969-bb45-94338ed4d6b0,shed.degree,available,52.99,52.99,low,low,4,namesilo,,,23/09/2026 12:18
 3cc96c0b-9a94-4bdb-a773-e7c6300036e3,quadruplet.degree,available,14.99,64.99,low,low,10,name.com,,,
 fb335b12-ed01-44bb-b933-30027bbeb6bb,soundlike.degree,available,14.99,,low,low,10,name.com,,,
 1de2dc70-8f35-4742-849d-063ca755b5c1,enterontheboards.degree,available,14.99,,medium,low,19,name.com,,,
@@ -232,7 +232,7 @@ d146a7b0-2ada-4bf3-bba3-b8459da20805,antioxidant.degree,available,14.99,,high,lo
 bee2695d-3231-4de8-9c12-69e0fcc3ca6f,halfdozen.degree,available,14.99,64.99,low,low,10,name.com,,,
 45259f56-b03a-4cca-81fd-806ae8340578,asymptotic.degree,available,14.99,64.99,low,low,10,name.com,,,07/08/2026 10:30
 6ff129ee-cd67-41c3-9b32-a470ec6e62e0,croptop.degree,available,14.99,,high,low,8,name.com,,,
-f3d6b909-f1fe-4874-a9af-843fd8e239b7,built.degree,available,14.99,,high,low,5,name.com,,,
+f3d6b909-f1fe-4874-a9af-843fd8e239b7,built.degree,available,52.99,52.99,medium,low,5,namesilo,,,23/09/2026 10:20
 65c9d045-2a0e-4184-83a2-dc7081bdd330,protect.degree,available,14.99,,high,low,7,name.com,,,
 8356dd15-0b1e-486c-a112-ed36f84456c9,oddsandends.degree,available,14.99,,low,low,13,name.com,,,
 e78b380f-73f0-4da3-9dcf-949311b4ffe3,xciv.degree,available,14.99,64.99,low,low,4,name.com,,,
@@ -261,7 +261,7 @@ c30f5563-6729-4f40-94a9-c5aaf1b7950a,quick.degree,available,52.99,52.99,low,low,
 cf2f2a16-87d9-4e58-95a3-09082f463b3f,noble.degree,available,14.99,64.99,medium,low,5,name.com,,,08/08/2026 20:18
 e6c5d90e-4b25-4eb2-8dec-b25222852542,pepsi.degree,available,14.99,,high,low,5,name.com,,,
 cf963a6d-eba2-4eea-9b9e-10fdc5b97c22,beaklike.degree,available,14.99,64.99,low,low,8,name.com,,,09/08/2026 03:59
-f2364d5b-55d0-4041-b246-e37769755a5c,platform.degree,available,14.99,,high,medium,8,name.com,,,
+f2364d5b-55d0-4041-b246-e37769755a5c,platform.degree,available,52.99,52.99,medium,low,8,namesilo,,,23/09/2026 06:19
 55b020c2-c2d5-45c4-81d1-04e1bc8dfb9d,atthecorner.degree,available,14.99,,medium,low,13,name.com,,,
 2794a845-edb2-4f69-beff-32560bda7d7f,artglass.degree,available,14.99,,medium,low,9,name.com,,,
 4aeaa1dd-3e92-410e-b4c5-0edbd1ef2f63,jot.degree,available,14.99,,high,low,3,name.com,,,
@@ -358,7 +358,7 @@ dae7edcc-62b8-4f8e-a07e-e913119aadf1,jar.degree,available,14.99,,high,low,3,name
 86091f8e-20f5-41a4-8e22-8602a68eeaa2,onbase.degree,available,52.99,52.99,low,low,7,namesilo,,,15/09/2026 17:31
 9ccc3715-7c5e-495f-b686-38ca14b118f6,introduction.degree,available,14.99,,high,low,12,name.com,,,
 d105478e-dcd8-41d4-9627-1fef91e770b4,rag.degree,available,14.99,64.99,medium,low,3,name.com,,,
-f3457fa9-10a6-4ebf-a341-73881599d846,reverse.degree,available,14.99,64.99,high,low,7,name.com,,,
+f3457fa9-10a6-4ebf-a341-73881599d846,reverse.degree,available,54.98,66.98,medium,low,7,namecheap,,,23/09/2026 22:34
 2bffbdb7-5b4a-4c03-84f3-e0d6b78cd598,playoff.degree,available,14.99,,high,low,8,name.com,,,
 c81cf429-b64f-461b-8ff9-074ce56f90d9,artimitateslife.degree,available,14.99,,medium,low,17,name.com,,,
 6005be33-f314-4401-8ebc-d19797fe4fed,roomandboard.degree,available,14.99,,medium,low,14,name.com,,,
@@ -369,7 +369,7 @@ d86bf099-edcd-4ca0-90fb-792b8d373047,anosmic.degree,available,14.99,64.99,low,lo
 d4570ad9-d50d-43a3-b9a4-2bddddc57aa5,bond.degree,available,14.99,,high,low,4,name.com,,,
 f025550f-2520-4a6e-a222-bbd603c64974,salmon.degree,available,14.99,,high,low,6,name.com,,,
 68b4b73c-d650-4f62-ba75-1688fbfa9f2a,eddie.degree,available,14.99,,high,low,5,name.com,,,
-0a0d139a-a7cc-4f21-a8c6-71a8a3feacef,central.degree,available,14.99,,high,low,7,name.com,,,
+0a0d139a-a7cc-4f21-a8c6-71a8a3feacef,central.degree,available,52.99,52.99,low,low,7,namesilo,,,23/09/2026 12:46
 df2e63ba-293e-4135-a132-a33a1dd5d081,fortified.degree,available,14.99,64.99,low,low,9,name.com,,,09/08/2026 00:17
 f64c8ac3-01ff-44a8-b676-3c0d8f9beefd,majority.degree,available,14.99,,high,low,8,name.com,,,
 c5de7a7a-063f-41b6-8640-e61617bfa773,dakotacity.degree,available,14.99,,medium,low,11,name.com,,,
@@ -383,7 +383,7 @@ cfecb67b-7014-4005-90e4-bbe4ab2c168b,giraffe.degree,available,14.99,,high,low,7,
 3142132f-67ca-4409-8ade-f7d934ba0c1f,beads.degree,available,14.99,,high,low,5,name.com,,,
 0f392a91-f54f-4f01-9232-66c47811b0aa,steps.degree,available,14.99,,high,low,5,name.com,,,
 1fb789cf-8277-478b-8475-86bdcba63286,borderon.degree,available,14.99,,medium,low,9,name.com,,,
-ef47434a-35d8-42a8-981c-7fd5a5782ed5,comp.degree,premium,250,250,medium,low,4,name.com,,,
+ef47434a-35d8-42a8-981c-7fd5a5782ed5,comp.degree,premium,260,260,low,low,4,namecheap,,,23/09/2026 17:59
 b06e8e7f-0e2f-4c62-8390-94c241d9924f,substitute.degree,available,52.99,52.99,medium,low,10,namesilo,,,22/09/2026 02:40
 4e1cfeaa-55b2-474d-8d70-40f2228220be,hole.degree,available,14.99,,medium,low,4,name.com,,,
 b7afbf05-680a-4094-9b24-cbc345eb0448,defence.degree,available,14.99,,high,low,7,name.com,,,
@@ -425,7 +425,7 @@ a3485dbd-2bd3-4973-80e6-286075142f6b,think.degree,premium,768,768,medium,low,5,n
 4909a76a-68c0-46a8-b04c-2d429c0eff92,assoonas.degree,available,14.99,,medium,low,10,name.com,,,
 63759a3e-068b-4858-9070-7860b0f24e93,xciii.degree,available,14.99,64.99,low,low,5,name.com,,,
 a9c1ca23-50c0-4777-b38f-758ee877f220,steady.degree,available,14.99,,high,low,6,name.com,,,
-ec942d62-0722-4633-9ac1-da34c26c6240,masterly.degree,available,14.99,64.99,high,low,8,name.com,,,
+ec942d62-0722-4633-9ac1-da34c26c6240,masterly.degree,available,54.98,66.98,medium,low,8,namecheap,,,23/09/2026 21:40
 bb154d03-2e84-4ae4-bb1f-6097a86ec650,baleful.degree,available,14.99,64.99,low,low,7,name.com,,,08/08/2026 09:39
 87f2a321-dccc-454a-8714-ab3830db15c3,vexing.degree,available,14.99,64.99,low,low,6,name.com,,,
 d3c27fb1-2f41-4846-b28a-69706a0f25d0,blurred.degree,available,54.98,66.98,low,low,7,namecheap,,,22/09/2026 23:21
@@ -459,7 +459,7 @@ bbaa3ccb-ae38-402a-beb3-e8a1c122eea5,sulfurous.degree,available,14.99,64.99,low,
 433048ec-0ff8-4bc2-902a-525a2cecc979,passengerseat.degree,available,14.99,,high,low,14,name.com,,,
 7567f420-431b-4b17-914e-365a763f3e62,aureate.degree,available,52.99,52.99,low,low,7,namesilo,,,22/09/2026 12:51
 a4b66677-4424-48e4-98f5-f618afb38b9f,lookthrough.degree,available,14.99,,high,low,12,name.com,,,
-fe637073-eca0-4996-bc6a-73916cee40e9,concerned.degree,available,14.99,64.99,medium,low,9,name.com,,,
+fe637073-eca0-4996-bc6a-73916cee40e9,concerned.degree,available,54.98,66.98,low,low,9,namecheap,,,23/09/2026 18:58
 013b63e1-c223-4a0d-833e-61bbabd847a6,vocal.degree,available,14.99,,high,low,5,name.com,,,
 5ff5b5b4-7745-44ef-ad03-c4e026bd6953,fling.degree,available,14.99,,medium,low,5,name.com,,,
 dfba19e4-1519-4827-808b-835aa470b094,safe.degree,available,14.99,,high,medium,4,name.com,,,
@@ -502,7 +502,7 @@ c79f158f-15fc-4ced-b937-37367984e5c5,gaslighter.degree,available,14.99,,medium,l
 a99c6055-b46b-4ca4-abfe-5c6fbaa094e2,arborical.degree,available,14.99,64.99,low,low,9,name.com,,,06/08/2026 13:13
 2e524c35-6963-43f9-aeac-440005d732b1,put.degree,available,14.99,,high,low,3,name.com,,,
 9ed3eadc-478c-4d37-b38e-1c66e8d5d6df,noticeable.degree,available,14.99,64.99,medium,low,10,name.com,,,
-bf8a046c-fec4-4b9f-8830-ce4cf5b5b20f,arts.degree,premium,1107,1107,medium,low,4,namesilo,,,19/09/2026 04:18
+bf8a046c-fec4-4b9f-8830-ce4cf5b5b20f,arts.degree,premium,1300,1300,medium,low,4,namecheap,,,23/09/2026 06:35
 e9a7eaab-df06-4823-a790-9c4843367513,formless.degree,available,14.99,64.99,low,low,8,name.com,,,
 06472137-7584-47eb-b915-143489882a17,monthly.degree,available,14.99,,high,low,7,name.com,,,
 ab074c62-8398-4500-93ce-60b1635779a0,prohibited.degree,available,14.99,64.99,low,low,10,name.com,,,08/08/2026 13:48
@@ -521,7 +521,7 @@ acb2815a-a5cb-4c98-820e-7667024b9649,veggie.degree,available,54.98,66.98,medium,
 a2112870-dad8-4f2b-b062-3e5923280ac2,setose.degree,available,14.99,64.99,low,low,6,name.com,,,08/08/2026 17:39
 bc4b1dbe-7939-4a79-86ad-4ab8a02ea438,moderator.degree,available,14.99,,high,low,9,name.com,,,
 b9551d3f-3590-49b8-8bf3-2a1e61c0dcdd,prolific.degree,available,14.99,,high,low,8,name.com,,,
-f17febe7-dac0-4a59-83f0-a0264643795e,cute.degree,available,14.99,64.99,high,low,4,name.com,,,
+f17febe7-dac0-4a59-83f0-a0264643795e,cute.degree,available,52.99,52.99,medium,low,4,namesilo,,,24/09/2026 03:46
 21b1275f-ca4a-4efd-b8f4-880e52526ae9,bones.degree,available,14.99,,medium,low,5,name.com,,,
 a740b2f5-ea2d-4263-b4e4-b9cc17b3f2e6,goforthegold.degree,available,14.99,,high,low,15,name.com,,,
 02c76d62-6db4-498e-b928-908b02958073,swallow.degree,available,14.99,,medium,low,7,name.com,,,
@@ -533,7 +533,7 @@ bae9d862-c82c-40d6-a89c-1c0f318fb684,been.degree,available,14.99,,medium,low,4,n
 7cc08646-ebe0-49a2-9933-b00f1d5c913b,lastminute.degree,available,14.99,,medium,low,11,name.com,,,
 57fa209a-34f7-48dc-a6fd-9cc1993c67e8,asthedayislong.degree,available,14.99,,medium,low,18,name.com,,,
 d6f161ce-6690-4950-8196-1cadeaf579ef,autoerotic.degree,available,14.99,64.99,low,low,10,name.com,,,07/08/2026 20:01
-d682993b-9487-48d4-83b8-921d76276e17,worn.degree,available,14.99,,medium,low,4,name.com,,,
+d682993b-9487-48d4-83b8-921d76276e17,worn.degree,available,52.99,52.99,low,low,4,namesilo,,,23/09/2026 12:58
 ea6722e3-78cb-4437-9e48-2528dcfd5033,buffet.degree,available,52.99,52.99,medium,low,6,namesilo,,,19/09/2026 17:05
 435ba293-198a-4a67-a22c-24283407feae,asyndetic.degree,available,14.99,64.99,low,low,9,name.com,,,07/08/2026 10:34
 6463b1f5-7330-40e5-a8b1-2f11db729653,going.degree,available,14.99,,high,low,5,name.com,,,
@@ -552,7 +552,7 @@ dbb5a926-be41-48f7-85a6-11a70e365712,screwabout.degree,available,14.99,,low,low,
 e462fe00-cefb-4026-8857-1125264b37b4,pizzashop.degree,available,14.99,,high,low,10,name.com,,,
 c84b21bf-d300-4151-8e0a-1b33ec9ad282,teasing.degree,available,52.99,52.99,low,low,7,namesilo,,,22/09/2026 05:24
 f2f9f391-f7ca-44e9-a7bc-b94d5f2e280e,recently.degree,available,14.99,,medium,low,8,name.com,,,
-88e9b6ae-72b2-4200-b703-14e5d0cd8efa,cool.degree,available,14.99,64.99,high,low,4,name.com,,,
+88e9b6ae-72b2-4200-b703-14e5d0cd8efa,cool.degree,available,54.98,66.98,medium,low,4,namecheap,,,23/09/2026 23:02
 357af45d-26bc-4ced-9b22-a4606cb20b97,windsor.degree,available,14.99,,medium,low,7,name.com,,,
 f0211888-e001-4d0f-a8ba-ca458910a25d,westcott.degree,available,14.99,,low,low,8,name.com,,,
 fede9f84-7314-4fc1-bc13-66fb71873489,justification.degree,available,14.99,,medium,low,13,name.com,,,
@@ -580,7 +580,7 @@ d276924c-e825-4903-94e6-d0186370d826,despise.degree,available,14.99,,medium,low,
 b45e0589-7fc6-4311-8996-31b326e0b915,economically.degree,available,14.99,,medium,low,12,name.com,,,
 6f6a734a-f3ab-45b1-90bb-9cfef66f65e7,lazuline.degree,available,14.99,64.99,low,low,8,name.com,,,08/08/2026 03:18
 2e5fc2ed-d997-443b-a74f-957b4ac8bba7,kilo.degree,available,14.99,,high,low,4,name.com,,,
-20d29fcd-f7b4-44ab-86a3-b19b5460a069,school.degree,premium,1107,1107,medium,low,6,namesilo,,,20/09/2026 03:02
+20d29fcd-f7b4-44ab-86a3-b19b5460a069,school.degree,premium,1107,1107,medium,low,6,namesilo,,,23/09/2026 11:06
 8c1442b9-fd7e-42fc-b965-a10e71dd04d1,baffled.degree,available,14.99,64.99,low,low,7,name.com,,,07/08/2026 11:36
 e6ce1757-52e6-4621-bcb8-71e2bbf956b1,drawing.degree,available,14.99,,high,low,7,name.com,,,
 af13ed32-9745-4c28-998b-f49afc771144,generalpurpose.degree,available,14.99,,medium,low,15,name.com,,,
@@ -605,7 +605,7 @@ bfd47537-7c65-4729-8bea-e97b64371e2a,uncontrollable.degree,available,14.99,,medi
 54376a6b-016c-41be-a3b0-4d71ca2fd754,fundament.degree,available,14.99,64.99,low,low,9,name.com,,,09/08/2026 10:59
 9ee5b856-2e31-49a0-b06d-3b13b4787dda,youknow.degree,available,14.99,,high,low,8,name.com,,,
 db1e0560-b185-455a-91c7-a2b9b8da9dfa,bravery.degree,available,14.99,,high,low,7,name.com,,,
-b49509e2-23ed-4758-90b7-9c84b792f400,drawn.degree,available,14.99,,medium,low,5,name.com,,,
+b49509e2-23ed-4758-90b7-9c84b792f400,drawn.degree,available,52.99,52.99,low,low,5,namesilo,,,23/09/2026 12:57
 c9d6c750-93b2-47b2-8481-3b7ef97cb36c,rollabout.degree,available,14.99,,low,low,10,name.com,,,
 dfde2d8e-0d18-4ef1-8460-364deef48820,allomerous.degree,available,14.99,64.99,low,low,10,name.com,,,
 78b1eff8-1818-44ee-96a3-8661527a46bc,surething.degree,available,14.99,,high,low,10,name.com,,,
@@ -616,7 +616,7 @@ b45a0b65-bdb2-47a0-aac5-eaed7738d284,wave.degree,available,14.99,,high,medium,4,
 7c43ea43-5eca-4cc4-aeea-bd435c04132c,tippingpoint.degree,available,14.99,,high,low,13,name.com,,,
 425ae8d2-5f73-4aeb-9290-e2d0e532f7e9,never.degree,available,14.99,,high,low,5,name.com,,,
 185e3135-0334-4864-9d25-cd49d58588e1,wrote.degree,available,14.99,,low,low,5,name.com,,,
-76854c80-ac0c-45cd-8669-bbaba989679e,criminal.degree,premium,250,250,high,low,8,name.com,,,
+76854c80-ac0c-45cd-8669-bbaba989679e,criminal.degree,premium,260,260,low,low,8,namecheap,,,23/09/2026 19:22
 306eb018-5c60-4fc5-b2d6-0ce49148c44f,scorched.degree,available,14.99,64.99,low,low,8,name.com,,,
 dbde651d-8b4c-4662-af3f-a58af3e9f637,wool.degree,available,14.99,,medium,low,4,name.com,,,
 00f90895-e8a0-42e0-be7d-ccbd6be8964a,entranceexamination.degree,available,14.99,,medium,low,20,name.com,,,
@@ -629,9 +629,9 @@ fed1d14f-893a-477d-bbb3-c2ffd7fd802a,southcarolina.degree,premium,242,242,low,lo
 17d9b454-330b-4408-a30e-80c4870f3ed7,lxvi.degree,available,14.99,64.99,low,low,4,name.com,,,
 dff4a8ae-5b9a-4af1-9038-6f8497e171e8,bestloved.degree,available,54.98,66.98,medium,low,10,namecheap,,,22/09/2026 20:06
 8a11ab78-19c1-4039-bd8d-2fee31a7ff64,stand.degree,available,14.99,,high,low,5,name.com,,,
-a9452547-e297-4194-8a30-32f067518c83,facts.degree,available,54.98,66.98,medium,low,5,namecheap,,,20/09/2026 19:39
+a9452547-e297-4194-8a30-32f067518c83,facts.degree,available,52.99,52.99,medium,low,5,namesilo,,,23/09/2026 17:41
 ddfe43aa-6e24-4fd2-b1d7-a857b0b48b15,abysmal.degree,available,14.99,64.99,low,low,7,name.com,,,
-5bc31f58-6745-4478-8ea1-2a31b4987d2d,begin.degree,available,52.99,52.99,medium,low,5,namesilo,,,19/09/2026 05:29
+5bc31f58-6745-4478-8ea1-2a31b4987d2d,begin.degree,available,52.99,52.99,medium,low,5,namesilo,,,23/09/2026 09:05
 c29e0d66-ebc1-4e5c-af97-53b9e913e8a5,starred.degree,available,14.99,64.99,low,low,7,name.com,,,07/08/2026 08:52
 23d0193f-9a35-4786-a1e3-7b264bd2ef74,oneyearold.degree,available,14.99,,high,low,12,name.com,,,
 5d97970c-7e26-4f9d-bee3-81b50544e9e4,muchas.degree,available,14.99,,medium,low,7,name.com,,,
@@ -642,7 +642,7 @@ c29e0d66-ebc1-4e5c-af97-53b9e913e8a5,starred.degree,available,14.99,64.99,low,lo
 9cb43966-7ed1-480e-bdcb-b2a569fbffa3,offstage.degree,available,14.99,64.99,medium,low,8,name.com,,,08/08/2026 06:14
 fa18c966-58f7-4d50-bc25-aa8193136d4d,nebraska.degree,premium,242,242,medium,low,8,namesilo,,,
 b07cf401-d7bc-40f5-b393-b0119f7e40df,comeupon.degree,available,14.99,,medium,low,9,name.com,,,
-3a472159-986a-4e02-8d04-6cc3e660a142,swollen.degree,available,14.99,64.99,medium,low,7,name.com,,,
+3a472159-986a-4e02-8d04-6cc3e660a142,swollen.degree,available,52.99,52.99,low,low,7,namesilo,,,23/09/2026 18:42
 cb631b50-3b6e-417c-b8e4-f1b7412482ff,acknowledged.degree,available,14.99,,low,low,12,name.com,,,
 4f98170b-3e91-4634-8e06-a526da864466,select.degree,available,52.99,52.99,medium,low,6,namesilo,,,22/09/2026 23:07
 13f8b702-b061-41ce-b764-1386d54ff6a3,carsick.degree,available,14.99,64.99,low,low,7,name.com,,,
@@ -766,7 +766,7 @@ a7d7a2b1-074d-4ef7-a181-eaed674f6581,ancestor.degree,available,14.99,64.99,mediu
 2ede3ba3-f3ef-4928-ae9e-4c8938a0ea98,carousing.degree,available,14.99,64.99,low,low,9,name.com,,,08/08/2026 04:24
 1bd85ddf-5e53-4a76-acb9-a88ca83879fd,nash.degree,available,14.99,,high,low,4,name.com,,,
 14251811-85d6-42b8-8098-f6ef1181c660,onehundred.degree,available,14.99,,low,low,11,name.com,,,
-c841b901-ef51-4364-a676-58983a967eac,mark.degree,premium,75,75,medium,medium,4,name.com,,,
+c841b901-ef51-4364-a676-58983a967eac,mark.degree,premium,71.4,71.4,low,low,4,namesilo,,,24/09/2026 01:59
 024e6967-5f02-4344-a1a7-c2da0e13cdee,consensus.degree,available,14.99,,high,low,9,name.com,,,
 e60c567d-d322-45e8-9020-a087c97e4819,armlike.degree,available,14.99,64.99,low,low,7,name.com,,,06/08/2026 19:59
 af91daa6-942e-4be5-b665-b2fcaced25e5,basic.degree,premium,78,78,low,low,5,namecheap,,,22/09/2026 17:57
@@ -775,7 +775,7 @@ af91daa6-942e-4be5-b665-b2fcaced25e5,basic.degree,premium,78,78,low,low,5,namech
 70f6d289-511a-41f5-ade5-a4b07af56cf6,soothing.degree,available,14.99,64.99,low,low,8,name.com,,,07/08/2026 07:40
 1cc784f5-6b25-4f66-888e-dda030906d60,returned.degree,available,14.99,,medium,low,8,name.com,,,
 9d40ddef-278d-4373-a3d9-420dee493fc8,calloff.degree,available,14.99,,medium,low,8,name.com,,,
-6005ad7b-9dd7-4f7e-b793-3e595121dc2d,punk.degree,available,14.99,,high,low,4,name.com,,,
+6005ad7b-9dd7-4f7e-b793-3e595121dc2d,punk.degree,available,52.99,52.99,low,low,4,namesilo,,,23/09/2026 11:14
 a5455d98-c08c-4e2f-8380-0b97b8f9f86b,xiv.degree,available,52.99,52.99,medium,low,3,namesilo,,,21/09/2026 11:42
 2f368de8-95d3-4685-9eb6-7678537dcfec,biddable.degree,available,14.99,64.99,low,low,8,name.com,,,
 0473f2c6-52be-4afd-93bc-7ba857355bb3,generaleducation.degree,available,14.99,,high,low,17,name.com,,,
@@ -819,11 +819,11 @@ a8565b33-1026-4c8f-8312-eb1bd79ecdae,gratitude.degree,available,14.99,,high,low,
 b87539fd-3154-4647-8749-13801b568b76,oval.degree,available,14.99,64.99,medium,low,4,name.com,,,
 6ae0a4dc-5d17-4983-875e-300d5f37da95,producing.degree,available,14.99,,low,low,9,name.com,,,
 646f339f-a695-4b49-9e38-49bc8aea1475,lowered.degree,available,14.99,,medium,low,7,name.com,,,
-5dd7f530-0d39-483d-82c1-807d39364914,desired.degree,available,14.99,64.99,high,low,7,name.com,,,
+5dd7f530-0d39-483d-82c1-807d39364914,desired.degree,available,52.99,52.99,medium,low,7,namesilo,,,24/09/2026 00:57
 6494fca0-14b2-4d01-b073-77dee066d89c,charles.degree,available,14.99,,high,low,7,name.com,,,
 c1682065-48f4-4993-9bdb-81b37d4fe3e4,lowdown.degree,available,14.99,64.99,low,low,8,name.com,,,
 cfc5751a-ba07-479b-b6f2-cf76ffde4672,godawful.degree,available,14.99,64.99,low,low,9,name.com,,,09/08/2026 05:04
-1a2b888c-7d48-486f-9ed7-f1acafff1a53,cosmetic.degree,available,14.99,64.99,high,low,8,name.com,,,
+1a2b888c-7d48-486f-9ed7-f1acafff1a53,cosmetic.degree,available,52.99,52.99,medium,low,8,namesilo,,,24/09/2026 00:13
 d000b343-8043-4520-ab49-15f025b90b11,algolagnic.degree,available,14.99,64.99,low,low,10,name.com,,,
 e8322814-d3e0-42e6-9ac4-f2471e720d3d,ofcolor.degree,available,14.99,,low,low,8,name.com,,,
 7dd3ae1d-50f5-43db-bad9-a35fd329d75b,hardly.degree,available,14.99,,high,low,6,name.com,,,
@@ -858,9 +858,9 @@ dbd14cac-2f48-49f8-8438-3b77574f611a,addled.degree,available,14.99,64.99,low,low
 f6fe1f31-5d60-4bfe-b810-e7bfeff2087f,abomasal.degree,available,14.99,64.99,low,low,8,name.com,,,
 ba143700-f866-4ad1-b96f-763a92978309,contaminated.degree,available,14.99,,medium,low,12,name.com,,,
 ab4a2248-ada5-406d-b88f-2b29ae763e13,garmented.degree,available,14.99,64.99,low,low,9,name.com,,,06/08/2026 04:57
-b0b8ffb9-eb03-48a6-8c0d-713c28ac7cb0,summary.degree,available,14.99,64.99,high,low,7,name.com,,,
+b0b8ffb9-eb03-48a6-8c0d-713c28ac7cb0,summary.degree,available,52.99,52.99,low,low,7,namesilo,,,23/09/2026 17:08
 b74908d0-2bd6-4df0-8c0d-06a493df015f,mothahfuggah.degree,available,14.99,,medium,low,12,name.com,,,
-5427997c-aa45-42a1-afb1-9d2e36d22165,biology.degree,premium,1107,1107,high,low,7,namesilo,,,
+5427997c-aa45-42a1-afb1-9d2e36d22165,biology.degree,premium,1300,1300,medium,low,7,namecheap,,,24/09/2026 02:45
 b1e5edec-c60a-45cc-b4a6-a086512b7043,essence.degree,available,14.99,,high,low,7,name.com,,,
 7738ea6e-76cf-4754-a146-180acaf9d543,dinosaur.degree,available,,,high,low,8,,,,
 a3049b2f-dda6-443e-be94-b769e175440f,division.degree,available,14.99,,medium,low,8,name.com,,,
@@ -895,7 +895,7 @@ fccd9d4d-c44b-4194-b113-0adac80f0258,previous.degree,available,14.99,,high,low,8
 69191629-d6e8-4e8b-a964-3a1b396c69fe,astomatous.degree,available,14.99,64.99,low,low,10,name.com,,,07/08/2026 09:45
 31cacd06-723a-4317-b692-82778b98cce5,developer.degree,premium,71.4,71.4,high,low,9,namesilo,,,
 5e446f59-6dcc-4657-ac61-05eb7bd7a127,thank.degree,available,14.99,,high,low,5,name.com,,,
-5e1acf2e-3238-445f-a610-fe977906ca81,convenient.degree,available,14.99,,high,low,10,name.com,,,
+5e1acf2e-3238-445f-a610-fe977906ca81,convenient.degree,available,14.99,64.99,medium,low,10,name.com,,,23/09/2026 15:48
 4b202cdd-537b-49a1-a9c5-f1c846569116,nostrils.degree,available,14.99,,low,low,8,name.com,,,
 6bcded6f-dbd3-47e0-9143-e6be8448c3c7,awninged.degree,available,14.99,64.99,low,low,8,name.com,,,08/08/2026 01:30
 8cc02c64-7c17-472c-be55-f08f87c000c9,ellen.degree,available,14.99,,high,low,5,name.com,,,
@@ -908,11 +908,11 @@ b13ab2f0-30a9-4b38-acc8-74b9b6488cf3,hill.degree,available,14.99,,medium,low,4,n
 2dcb96b5-ae84-43c0-b519-42c39983960b,adequate.degree,available,54.98,66.98,medium,low,8,namecheap,,,21/09/2026 18:22
 8c66a94d-425d-4b4d-8b41-0718fae0f760,usdollar.degree,available,14.99,,high,low,9,name.com,,,
 92e04165-f046-4d26-8598-f9d8a98327f7,drivethru.degree,available,14.99,,high,low,10,name.com,,,
-ae4faa77-57c1-4370-964e-bbe96554e8c5,canadian.degree,available,14.99,,high,low,8,name.com,,,
+ae4faa77-57c1-4370-964e-bbe96554e8c5,canadian.degree,available,14.99,64.99,low,low,8,name.com,,,23/09/2026 12:40
 0a36a83f-b6ef-43b7-8dd0-3e9a9c403d3d,yeah.degree,available,14.99,,high,low,4,name.com,,,
 f0dfd4c2-41c4-4a1b-abb0-0c12b869da76,branch.degree,available,14.99,,medium,low,6,name.com,,,
 90fa2f6a-f7b1-4268-a556-f963092c4fde,tide.degree,available,14.99,,high,low,4,name.com,,,
-2650861a-e186-46e4-84fc-ba52ea52804e,blacktea.degree,available,14.99,,high,low,9,name.com,,,
+2650861a-e186-46e4-84fc-ba52ea52804e,blacktea.degree,available,52.99,52.99,low,low,9,namesilo,,,24/09/2026 01:47
 08d42d1c-52ab-454b-b036-947dbdbec562,city.degree,available,14.99,,high,medium,4,name.com,,,
 9275a71b-b0d5-4390-ac14-fb759705861a,atsea.degree,available,14.99,64.99,low,low,6,name.com,,,07/08/2026 12:16
 c4833feb-5c2a-4814-bc54-013449c70d40,increase.degree,available,14.99,,high,low,8,name.com,,,
@@ -950,7 +950,7 @@ cc3132f0-c691-412f-a9c0-28a655bb1aed,jail.degree,available,14.99,,high,low,4,nam
 b53ddc66-a853-416d-8850-fd987a490394,havethefirstidea.degree,available,14.99,,medium,low,19,name.com,,,
 c7bc8f42-1fa8-45b1-8cad-c5cbc21c918d,agog.degree,available,14.99,64.99,low,low,4,name.com,,,
 b6d53329-7aa9-4a07-9e74-6957031e0b0d,swerve.degree,available,14.99,,high,low,6,name.com,,,
-24e2bb8a-a21f-49b8-a0df-4e175fefa152,broken.degree,available,14.99,,medium,low,6,name.com,,,
+24e2bb8a-a21f-49b8-a0df-4e175fefa152,broken.degree,available,52.99,52.99,low,low,6,namesilo,,,23/09/2026 09:56
 41b2ed33-51fb-4399-befd-aeeb9508031e,heatup.degree,available,14.99,,high,low,7,name.com,,,
 429bf0f4-1ef7-4201-80da-a6b84d09c5d8,bar.degree,available,14.99,,high,low,3,name.com,,,
 083b198b-6b2c-46f1-8d49-33f1a685f28f,holdoff.degree,available,14.99,,medium,low,8,name.com,,,
@@ -976,7 +976,7 @@ d8e0f636-b04d-4568-ae96-b20c3f2d0eb6,aeronautic.degree,available,14.99,64.99,low
 f59087db-4433-4923-aeb4-b91471deac26,basaltic.degree,available,14.99,64.99,low,low,8,name.com,,,08/08/2026 21:29
 03aa60c1-6902-4ed2-a38f-c4143a6382bd,ohio.degree,premium,242,242,high,low,4,namesilo,,,
 a9a0d0a6-23fe-490d-9426-42d646ae3bef,blackcomedy.degree,available,14.99,,high,low,12,name.com,,,
-8654c3b8-dd8f-4904-9970-39f7fca827b7,experiment.degree,available,14.99,,high,low,10,name.com,,,
+8654c3b8-dd8f-4904-9970-39f7fca827b7,experiment.degree,available,52.99,52.99,medium,low,10,namesilo,,,23/09/2026 08:49
 6ee409a5-38c5-458e-9952-f8ae0d9b9ad3,delicious.degree,available,14.99,64.99,high,low,9,name.com,,,
 44afa4fd-aa55-4f19-b369-25a995af6e33,stranger.degree,available,14.99,,high,low,8,name.com,,,
 99d2ebc1-a5b7-4f8a-b290-11469fc1044f,revered.degree,available,14.99,,high,low,7,name.com,,,
