@@ -1,10 +1,10 @@
-# Available .DEGREE One-Word Domains (24,340)
+# Available .DEGREE One-Word Domains (24,863)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-24%2C340%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-24%2C863%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,9 +12,9 @@
 Daily-updated public extract of available and resale .degree one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **24,340 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **24,863 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 24,340 domains · **Median ask:** $41.98 · **High-demand under $2,500:** 3
+**Public extract:** 1,000 rows · **Live catalog:** 24,863 domains · **Median ask:** $42.07 · **High-demand under $2,500:** 3
 
 **Last updated:** 2026-09-28
 **Canonical page:** `https://unique.domains/domains/tld/degree`
@@ -64,14 +64,14 @@ print(df.head())
 
 | domain       | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
 | ------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
-| blt.degree   | available | $52.99    | $52.99        | high           | low    | 3      | namesilo  |
-| aas.degree   | premium   | $260      | $260          | high           | low    | 3      | namecheap |
 | ccc.degree   | available | $14.99    | $64.99        | high           | medium | 3      | name.com  |
-| abc.degree   | premium   | $1,300    | $1,300        | high           | medium | 3      | namecheap |
+| aas.degree   | premium   | $260      | $260          | high           | low    | 3      | namecheap |
 | cot.degree   | available | $14.99    | —             | high           | low    | 3      | name.com  |
-| ada.degree   | premium   | $118.80   | $118.80       | high           | medium | 3      | namesilo  |
+| abc.degree   | premium   | $1,300    | $1,300        | high           | medium | 3      | namecheap |
 | dig.degree   | available | $52.99    | $52.99        | high           | low    | 3      | namesilo  |
-| art.degree   | premium   | $1,107    | $1,107        | high           | medium | 3      | namesilo  |
+| ada.degree   | premium   | $118.80   | $118.80       | high           | medium | 3      | namesilo  |
+| dom.degree   | available | $52.99    | $52.99        | high           | medium | 3      | namesilo  |
+| art.degree   | premium   | $1,300    | $1,300        | high           | medium | 3      | namecheap |
 | eta.degree   | available | $52.99    | $52.99        | high           | low    | 3      | namesilo  |
 | cad.degree   | premium   | $71.40    | $71.40        | high           | low    | 3      | namesilo  |
 | fly.degree   | available | $54.98    | $66.98        | high           | medium | 3      | namecheap |
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 24,340 live domains                        |
+| 1,000-row public sample | 24,863 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 3 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
