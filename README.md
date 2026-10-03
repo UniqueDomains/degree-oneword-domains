@@ -1,10 +1,10 @@
-# Available .DEGREE One-Word Domains (33,480)
+# Available .DEGREE One-Word Domains (35,817)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-33%2C480%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-35%2C817%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .degree one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **33,480 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **35,817 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 33,480 domains · **Median ask:** $44.46 · **High-demand under $2,500:** 4
+**Public extract:** 1,000 rows · **Live catalog:** 35,817 domains · **Median ask:** $44.57 · **High-demand under $2,500:** 4
 
-**Last updated:** 2026-10-02
+**Last updated:** 2026-10-03
 **Canonical page:** `https://unique.domains/domains/tld/degree`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain        | status    | ask_price | renewal_price | attractiveness | demand | length | registrar  |
-| ------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------- |
-| aac.degree    | available | $52.99    | $52.99        | high           | low    | 3      | namesilo   |
-| aas.degree    | premium   | $260      | $260          | high           | low    | 3      | namecheap  |
-| bev.degree    | available | $40.20    | $40.20        | high           | low    | 3      | cloudflare |
-| abc.degree    | premium   | $1,107    | $1,107        | high           | medium | 3      | namesilo   |
-| cac.degree    | available | $40.20    | $40.20        | high           | low    | 3      | cloudflare |
-| ada.degree    | premium   | $128.70   | $128.70       | high           | medium | 3      | namecheap  |
-| ccc.degree    | available | $14.99    | $64.99        | high           | medium | 3      | name.com   |
-| art.degree    | premium   | $546.56   | $1,092.18     | high           | medium | 3      | porkbun    |
-| chf.degree    | available | $41.60    | $41.60        | medium         | low    | 3      | spaceship  |
-| bsc.degree    | premium   | $546.56   | $1,092.18     | high           | low    | 3      | porkbun    |
-| cvs.degree    | available | $52.99    | $52.99        | high           | low    | 3      | namesilo   |
-| cad.degree    | premium   | $71.40    | $71.40        | high           | low    | 3      | namesilo   |
-| dig.degree    | available | $52.99    | $52.99        | high           | low    | 3      | namesilo   |
-| lp.degree     | premium   | $108.90   | $108.90       | high           | low    | 3      | dynadot    |
-| dom.degree    | available | $52.99    | $52.99        | high           | medium | 3      | namesilo   |
-| ames.degree   | premium   | $71.40    | $71.40        | high           | low    | 4      | namesilo   |
-| eta.degree    | available | $52.99    | $52.99        | high           | low    | 3      | namesilo   |
-| cost.degree   | premium   | $71.40    | $71.40        | high           | low    | 4      | namesilo   |
-| fly.degree    | available | $54.98    | $66.98        | high           | medium | 3      | namecheap  |
-| rating.degree | premium   | $260      | $260          | high           | low    | 6      | namecheap  |
+| domain         | status    | ask_price | renewal_price | attractiveness | demand | length | registrar  |
+| -------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------- |
+| aac.degree     | available | $52.99    | $52.99        | high           | low    | 3      | namesilo   |
+| aas.degree     | premium   | $260      | $260          | high           | low    | 3      | namecheap  |
+| bev.degree     | available | $40.20    | $40.20        | high           | low    | 3      | cloudflare |
+| abc.degree     | premium   | $1,107    | $1,107        | high           | medium | 3      | namesilo   |
+| cac.degree     | available | $40.20    | $40.20        | high           | low    | 3      | cloudflare |
+| ada.degree     | premium   | $128.70   | $128.70       | high           | medium | 3      | namecheap  |
+| ccc.degree     | available | $14.99    | $64.99        | high           | medium | 3      | name.com   |
+| art.degree     | premium   | $1,035.20 | $1,035.20     | high           | medium | 3      | spaceship  |
+| cel.degree     | available | $40.20    | $40.20        | high           | low    | 3      | cloudflare |
+| bsc.degree     | premium   | $546.56   | $1,092.18     | high           | low    | 3      | porkbun    |
+| chf.degree     | available | $41.60    | $41.60        | medium         | low    | 3      | spaceship  |
+| lp.degree      | premium   | $108.90   | $108.90       | high           | low    | 3      | dynadot    |
+| cvs.degree     | available | $52.99    | $52.99        | high           | low    | 3      | namesilo   |
+| ames.degree    | premium   | $71.40    | $71.40        | high           | low    | 4      | namesilo   |
+| dig.degree     | available | $52.99    | $52.99        | high           | low    | 3      | namesilo   |
+| cost.degree    | premium   | $71.40    | $71.40        | high           | low    | 4      | namesilo   |
+| dom.degree     | available | $52.99    | $52.99        | high           | medium | 3      | namesilo   |
+| rating.degree  | premium   | $260      | $260          | high           | low    | 6      | namecheap  |
+| eta.degree     | available | $52.99    | $52.99        | high           | low    | 3      | namesilo   |
+| florida.degree | premium   | $242      | $242          | high           | medium | 7      | namesilo   |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 33,480 live domains                        |
+| 1,000-row public sample | 35,817 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 4 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .DEGREE One-Word Domains*. Version 2026-10-02. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .DEGREE One-Word Domains*. Version 2026-10-03. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
